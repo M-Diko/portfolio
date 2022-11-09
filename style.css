@@ -1,0 +1,201 @@
+body {
+    background-image: url(background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu li {
+    display: inline;
+    font-size: 250%;
+}
+
+div.menu{
+    text-align: center;
+}
+
+.option {
+    color:#fff;
+    font: 18px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    text-decoration: none;
+    font-size: 70%;
+}
+
+.option:hover {
+    font-weight: bold;
+}
+
+img{
+    border-radius: 95%;
+}
+
+name {
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+pos {
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.photo{
+    border: 3px solid #2196F3;
+}
+
+.id{
+    display: inline-block;
+    height: 50%;
+}
+
+div.header{
+    text-align: center;
+    border: 3px solid #2196F3;
+}
+
+heading {
+    font-size: 350%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.summery{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+div.Online{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.edu{
+    display: inline-block;
+}
+
+div.UJ{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.joburg{
+    display: inline-block;
+}
+
+div.PGCE{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.stadio{
+    display: inline-block;
+}
+
+div.UGIE{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.school{
+    display: inline-block;
+}
+
+div.Adapt{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.test{
+    display: inline-block;
+}
+
+.intern{
+    display: inline-block;
+}
+
+div.BPHS{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.ea{
+    display: inline-block;
+}
+
+div.LUCID{
+    border: 3px solid #2196F3;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.quality{
+    display: inline-block;
+}
+
+div.skill {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color:#fff;
+}
+
+div.python {width: 75%; background-color: #2196F3;}
+div.html {width: 80%; background-color: #2196F3;}
+div.css {width: 70%; background-color: #2196F3;}
+div.js {width: 55%; background-color: #2196F3;}
+div.csharp {width: 50%; background-color: #2196F3;}
+div.angular {width: 40%; background-color: #2196F3;}
+
+div.skills{
+    border: 3px solid #2196F3;
+    color:#fff;
+    font-size: 150%;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.middle{
+    text-align: center;
+    top: 180;
+    font-size: 200%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+div.contact{
+    text-align: center;
+    font-size: 150%;
+    color:#fff;
+    font: Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+footer {
+    color: #fff;
+    font: 18px/14px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
